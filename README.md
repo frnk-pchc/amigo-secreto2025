@@ -1,7 +1,24 @@
 # Proyecto Amigo Secreto
 
-
 ![Imagen del proyecto](assets/amigo-secreto.png)
+
+Este proyecto es una aplicación web simple para organizar un sorteo de "Amigo Secreto". Permite a los usuarios ingresar los nombres de sus amigos y luego realiza un sorteo aleatorio para asignar a cada persona un amigo secreto.
+
+## Insignias
+
+[![HTML](https://img.shields.io/badge/HTML-HTML5-orange.svg)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-CSS3-blue.svg)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow.svg)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+## Índice
+
+1.  [Estructura del Proyecto](#estructura-del-proyecto)
+2.  [Funcionalidades](#funcionalidades)
+3.  [Cómo Usar](#cómo-usar)
+4.  [Tecnologías Utilizadas](#tecnologías-utilizadas)
+5.  [Próximas Mejoras](#próximas-mejoras)
+6.  [Autor](#autor)
+7.  [Licencia](#licencia)
 
 -----
 Este proyecto es una aplicación web simple para organizar un sorteo de "Amigo Secreto". Permite a los usuarios ingresar los nombres de sus amigos y luego realiza un sorteo aleatorio para asignar a cada persona un amigo secreto.
@@ -28,6 +45,8 @@ El proyecto está organizado de la siguiente manera:
 * Agregar nombres de amigos a una lista.
 * Realizar un sorteo aleatorio de "Amigo Secreto".
 * Mostrar los resultados del sorteo en la página.
+* Validación de nombres duplicados (próximamente).
+* Reinicio del sorteo (próximamente).
 
 ## Cómo Usar
 
@@ -47,6 +66,8 @@ El proyecto está organizado de la siguiente manera:
 * Mejorar la interfaz de usuario con estilos CSS adicionales.
 * Agregar validaciones para evitar nombres duplicados.
 * Implementar la capacidad de enviar los resultados por correo electrónico.
+* Permitir reiniciar el sorteo.
+* Evitar que las personas se regalen a sí mismas.
 
 ## Autor
 
