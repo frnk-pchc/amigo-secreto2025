@@ -23,6 +23,8 @@ function agregarAmigo() {
 
     if (nombreAmigo.trim() === "") {
         alert("Por favor, inserte un nombre.");
+    } else if (amigos.includes(nombreAmigo)) {
+        alert("Este nombre ya existe en la lista.");
     } else {
         amigos.push(nombreAmigo);
         if (amigos.length >= 2) {
